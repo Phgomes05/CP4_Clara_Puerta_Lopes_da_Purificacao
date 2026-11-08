@@ -1,0 +1,20 @@
+ROTEIRO DE APRESENTAÇÃO — CP4 (aprox. 2 minutos)
+
+IMPORTANTE: a atividade exige sua voz e o site publicado aberto no navegador. Use este texto como apoio, fale naturalmente e grave a tela com OBS Studio ou Clipchamp. Não entregue apenas este roteiro.
+
+0:00–0:15 | APRESENTAÇÃO
+“Olá! Este é o meu site pessoal, desenvolvido para a disciplina de Desenvolvimento Front-end para Web. Ele está publicado no GitHub Pages e reúne informações sobre mim, meu currículo e demonstrações de recursos web.”
+
+0:15–0:45 | NAVEGAÇÃO
+“Na página inicial apresento meu perfil e meus interesses. No currículo estão minha formação, cursos e experiências. A página de formulário permite preencher os dados de contato. Em multimídia, incluí áudio, vídeo e conteúdo incorporado. Por fim, em gráficos, demonstro Canvas e SVG.”
+
+0:45–1:20 | JAVASCRIPT E PERSISTÊNCIA
+“Uma das funcionalidades em JavaScript é a alternância entre tema claro e escuro. Vou mudar o tema e atualizar a página para mostrar que a preferência continua salva. No formulário, os dados demonstrativos são validados e ficam armazenados no localStorage deste navegador. Eles não são enviados para um servidor ou e-mail. Também é possível excluir uma mensagem salva.”
+
+1:20–1:50 | EVOLUÇÃO E DECISÕES TÉCNICAS
+“No CP1 desenvolvi a estrutura inicial em HTML e CSS. No CP2 evoluí o layout com Flexbox, Grid e responsividade para diferentes tamanhos de tela. No CP3 acrescentei recursos multimídia, gráficos e interatividade com JavaScript. No CP4 consolidei as páginas, integrei Bootstrap e refinei a experiência.”
+
+1:50–2:10 | ACESSIBILIDADE E ENCERRAMENTO
+“Também revisei a acessibilidade com textos alternativos nas imagens, rótulos nos campos, link para pular ao conteúdo, foco visível e navegação por teclado. O Bootstrap foi aplicado com classes como container, btn, btn-primary, form-control e form-select. Quando utilizei recursos gerados ou sugeridos por IA, revisei e adaptei o código ao projeto. Obrigada!”
+
+GRAVAÇÃO: mantenha o endereço HTTPS visível; navegue pelas cinco páginas; mostre a alternância de tema; abra DevTools > Application > Local Storage; atualize com F5 e confirme a persistência. Mostre também o formulário salvando e excluindo uma mensagem. Duração final obrigatória: 1min30s a 2min30s.
