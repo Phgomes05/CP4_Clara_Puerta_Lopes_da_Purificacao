@@ -1,0 +1,21 @@
+PUBLICAÇÃO CP4 — EXECUTAR NO POWERSHELL
+
+1) Extraia o ZIP e copie os arquivos para a pasta local do repositório já clonado:
+   CP3_Clara_Puerta_Lopes_da_Purificacao
+
+2) Abra o PowerShell dentro da pasta do repositório e execute:
+   git status
+   git add .
+   git commit -m "feat: consolidar versao final CP4"
+   git tag -a cp4-entrega -m "Entrega final CP4"
+   git push origin main
+   git push origin cp4-entrega
+
+3) No GitHub, confira Settings > Pages. Se a publicação estiver configurada por GitHub Actions, selecione GitHub Actions como fonte. Se estiver usando Deploy from a branch, mantenha main e /(root) e não habilite simultaneamente um segundo fluxo de publicação.
+
+4) Aguarde o deploy e teste em janela anônima:
+   https://phgomes05.github.io/CP3_Clara_Puerta_Lopes_da_Purificacao/
+
+5) Confira a tag no GitHub em Repositories > Tags e teste todas as páginas.
+
+OBSERVAÇÃO: o pacote preparado aqui não foi enviado ao GitHub. O push precisa ser executado no computador com a conta GitHub autenticada.
